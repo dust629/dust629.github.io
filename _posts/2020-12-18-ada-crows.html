@@ -6,20 +6,15 @@ cover-img: /assets/img/car.jpg
 share-img: /assets/img/car.jpg
 ---
 
-<div class="row">
-  <h2>Introduction</h2>
-  <p>
-  Contemt
-  </p>
-  <br/>
-
-</div>
-
 <body>
         <h1>2014 technology and CPG stock prices</h1>
 
         {% comment %} <!-- *** Section 1 *** ---> {% endcomment %}
         <h2>Section 1: Apple Inc. (AAPL) stock in 2014</h2>
-        {% include google12.html %}
         <p> Apple stock price rose steadily through 2014. </p>
+        <script>
+        $(function() {
+                $().load("plots/google12.html");
+        });
+        </script>
 </body>
