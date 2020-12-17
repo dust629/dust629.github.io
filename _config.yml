@@ -18,7 +18,7 @@ navbar-links:
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
-  GitHub : "https://deanattali.com"
+  GitHub : "https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_crows"
 
 # --- Logo --- #
 
@@ -41,7 +41,7 @@ round-avatar: true
 social-network-links:
   # email: "someone@example.com"
   # facebook: deanattali
-  github: daattali
+  github: https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_crows
   # twitter: daattali
   # patreon: DeanAttali
   # youtube: c/daattali
